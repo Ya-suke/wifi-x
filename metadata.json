@@ -1,7 +1,7 @@
 {
-  "name": "wifi-X",
+  "name": "wifi-x",
   "description": "Show connectivity on the panel (+wifi band)",
-  "uuid": "vpn@ya-suke",
+  "uuid": "wifi-x@ya-suke",
   "shell-version": [
     "41"
   ],
