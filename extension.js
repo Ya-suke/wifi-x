@@ -20,7 +20,7 @@ function setButtonText() {
   // log(myFrequencyString.length)
   myFrequency = (myFrequencyString.split(" ")[0]);
 
-  myFrequency.length <= 6 && myFrequencyString.length <20 ? panelButtonText.set_text( myFrequency + " GHz"): panelButtonText.set_text("");
+  myFrequency.length <= 6 && myFrequencyString.length <30 ? panelButtonText.set_text( myFrequency + " GHz"): panelButtonText.set_text("");
 
   // log(myFrequency);
 
