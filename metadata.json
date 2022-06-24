@@ -3,7 +3,8 @@
   "description": "Show connectivity on the panel (+wifi band)",
   "uuid": "wifi-x@ya-suke",
   "shell-version": [
-    "41"
+    "41",
+    "42"
   ],
   "version": "1.0.0"
 }
